@@ -1,9 +1,9 @@
 # My GenAI Project
-# News Research Tool 📈
+# Thesis Research Tool 📈
 
-Hi there! This is a simple Python application that lets you "chat" with news articles.
+Hi there! This is a simple Python application that lets you "chat" with research pages.
 
-Have you ever opened 10 different tabs trying to research a topic, only to get overwhelmed by the reading? This tool solves that. You just paste the URLs of the articles you want to read, and the AI reads them for you. Then, you can ask questions like "What is the summary?" or "What are the key dates?" and get answers based only on those specific articles.
+Have you ever opened 10 different tabs trying to research a topic, only to get overwhelmed by the reading? This tool solves that. You just paste the URLs of the articles you want to read, and the AI reads them for you. Then, you can ask questions like "What is the summary?" or "What are the key dates?" and get answers based only on those specific research topic.
 
 How it Works (Simply Put)
 
